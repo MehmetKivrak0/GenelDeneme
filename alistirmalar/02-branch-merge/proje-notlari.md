@@ -10,7 +10,7 @@ altına yeni satır ekle.
 - Renk paleti belirlendi
 
 ## Test
-
+Madde ekliyorum- Yağmur cengiz
 - Giriş ekranı için ilk test senaryosu yazıldı
 - Test verisi hazırlandı
 
