@@ -19,7 +19,6 @@ altına yeni satır ekle.
 
 - Muhammed sayfası eklendi 
 - şeyma madde eklendi
-
 - Sami Eren
 - Ezgi Bacak
 
@@ -31,9 +30,6 @@ Madde ekliyorum- Yağmur cengiz
 - Test mesajı, muhery
 - Test mesajı ekledim-Nisa
 - şeyma test
-
-
-
 - Sami Eren
 - Ezgi Bacak
 
