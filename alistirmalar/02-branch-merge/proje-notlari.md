@@ -14,7 +14,7 @@ altına yeni satır ekle.
 - Deniz was here
 - Muhammed sayfası eklendi 
 - şeyma madde eklendi
-
+- Ekrem Efe Arkun: Dashboard taslağı eklendi.
 - Sami Eren
 - Ezgi Bacak
 
