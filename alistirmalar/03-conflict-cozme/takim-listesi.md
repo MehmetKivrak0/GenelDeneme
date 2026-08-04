@@ -6,7 +6,7 @@ değiştirip bilerek çakışma çıkaracaksın. Diğer satırlara dokunma.
 ## Sprint bilgisi
 
 - Sprint adı: Staj Sprint 1
-- Sprint sorumlusu: BELIRLENECEK
+- Sprint sorumlusu: seyma
 - Sprint bitiş tarihi: 15.08.2026
 
 ## Takım üyeleri
