@@ -5,6 +5,7 @@ gibi kendi maddeni ekle. Başlıkları ve mevcut satırları değiştirme, sadec
 altına yeni satır ekle.
 
 ## Arayüz
+# Zeynep divoğlu
 
 - Giriş ekranı taslağı hazırlandı
 - Renk paleti belirlendi
