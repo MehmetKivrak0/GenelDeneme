@@ -8,11 +8,13 @@ altına yeni satır ekle.
 
 - Giriş ekranı taslağı hazırlandı
 - Renk paleti belirlendi
+- Muhammed sayfası eklendi
 
 ## Test
 
 - Giriş ekranı için ilk test senaryosu yazıldı
 - Test verisi hazırlandı
+- Test mesajı, muhery
 
 ## Toplantı notları
 
