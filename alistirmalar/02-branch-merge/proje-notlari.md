@@ -12,8 +12,8 @@ altına yeni satır ekle.
 - Giriş ekranı taslağı hazırlandı
 - Renk paleti belirlendi
 - Deniz was here
-- Muhammed sayfası eklendi
-
+- Muhammed sayfası eklendi 
+- şeyma madde eklendi
 
 - Sami Eren
 
