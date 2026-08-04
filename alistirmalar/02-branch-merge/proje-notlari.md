@@ -13,6 +13,8 @@ altına yeni satır ekle.
 - Renk paleti belirlendi
 - Deniz was here
 - Muhammed sayfası eklendi
+- Madde ekledim.-Nisa
+
 
 
 - Sami Eren
