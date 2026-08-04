@@ -14,6 +14,7 @@ altına yeni satır ekle.
 
 - Giriş ekranı için ilk test senaryosu yazıldı
 - Test verisi hazırlandı
+
 - Sami Eren
 
 ## Toplantı notları
