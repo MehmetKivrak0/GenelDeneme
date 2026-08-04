@@ -1,11 +1,11 @@
-Şeyma Sueda Sarı
+Zeynep Divoğlu
 
-GitHub kullanıcı adı: seymasuedasarii
-Bölüm / okul: Bilgisayar Programcılığı
+GitHub kullanıcı adı: zeynepdivoglu
+Bölüm / okul: Sosyoloji 
 Staja başlama tarihi: 04.08.2026
 Daha önce kullandığım teknolojiler
 
-PHP, C#, Python, HTML/CSS, React Native, SQL.
+Sosyoloji
 Bu stajda öğrenmek istediğim şey
 
 Git ve GitHub süreçlerini gerçek bir ekip ortamında deneyimlemek, takım çalışması akışını kavramak.

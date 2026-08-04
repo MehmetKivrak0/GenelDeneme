@@ -5,16 +5,18 @@ gibi kendi maddeni ekle. Başlıkları ve mevcut satırları değiştirme, sadec
 altına yeni satır ekle.
 
 ## Arayüz
-
+Madde ekliyorum-Yağmur Cengiz
 - Giriş ekranı taslağı hazırlandı
 - Renk paleti belirlendi
 - Deniz was here
+- Muhammed sayfası eklendi
 
 ## Test
-
+Madde ekliyorum- Yağmur cengiz
 - Giriş ekranı için ilk test senaryosu yazıldı
 - Test verisi hazırlandı
 - deniz was here
+- Test mesajı, muhery
 
 ## Toplantı notları
 
