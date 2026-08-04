@@ -39,6 +39,8 @@ Madde ekliyorum- Yağmur cengiz
 - Sami Eren
 - Ezgi Bacak
 
+- Hazar Ekin Ucan kullanici profil ekrani icin test senaryosu yazilacak
+
 ## Toplantı notları
 
 Bu başlığın altına dokunma. Burası bilerek boş bırakıldı, merge sonrası dosyanın geri
