@@ -14,7 +14,6 @@ altına yeni satır ekle.
 - Deniz was here
 - Muhammed sayfası eklendi 
 - şeyma madde eklendi
-
 - Sami Eren
 - Ezgi Bacak
 
@@ -25,9 +24,6 @@ Madde ekliyorum- Yağmur cengiz
 - deniz was here
 - Test mesajı, muhery
 - şeyma test
-
-
-
 - Sami Eren
 - Ezgi Bacak
 
