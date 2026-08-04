@@ -6,16 +6,27 @@ altına yeni satır ekle.
 
 ## Arayüz
 
-
 # Mehmet Kivrak.
  -Web sitesi kisminda yenilikler yapilacak
+- Madde ekliyorum-Yağmur Cengiz
 - Giriş ekranı taslağı hazırlandı
 - Renk paleti belirlendi
+- Deniz was here
+- Muhammed sayfası eklendi
+
+
+- Sami Eren
 
 ## Test
-
+Madde ekliyorum- Yağmur cengiz
 - Giriş ekranı için ilk test senaryosu yazıldı
 - Test verisi hazırlandı
+- deniz was here
+- Test mesajı, muhery
+
+
+
+- Sami Eren
 
 ## Toplantı notları
 
