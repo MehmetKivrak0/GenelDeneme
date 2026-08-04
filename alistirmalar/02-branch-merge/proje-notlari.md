@@ -13,6 +13,7 @@ altına yeni satır ekle.
 - Renk paleti belirlendi
 - Deniz was here
 - Muhammed sayfası eklendi
+- Cengizhan ve XRLab
 
 
 - Sami Eren
