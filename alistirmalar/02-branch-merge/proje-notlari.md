@@ -8,12 +8,16 @@ altına yeni satır ekle.
 
 - Giriş ekranı taslağı hazırlandı
 - Renk paleti belirlendi
+
+
 - Sami Eren
 
 ## Test
 
 - Giriş ekranı için ilk test senaryosu yazıldı
 - Test verisi hazırlandı
+
+
 
 - Sami Eren
 
