@@ -13,6 +13,8 @@ altına yeni satır ekle.
 - Renk paleti belirlendi
 - Deniz was here
 - Muhammed sayfası eklendi
+- Madde ekledim.-Nisa
+
 - Cengizhan ve XRLab
 
 - Muhammed sayfası eklendi 
@@ -27,6 +29,7 @@ Madde ekliyorum- Yağmur cengiz
 - Test verisi hazırlandı
 - deniz was here
 - Test mesajı, muhery
+- Test mesajı ekledim-Nisa
 - şeyma test
 
 
