@@ -1,4 +1,4 @@
-# Eren Ata
+# Nisa Şanverdi
 
 - **GitHub kullanıcı adı:** Nisa Sanverdi
 - **Bölüm / okul:** Bilgisayar Mühendisliği
