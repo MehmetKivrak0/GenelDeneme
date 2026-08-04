@@ -10,6 +10,7 @@ Madde ekliyorum-Yağmur Cengiz
 - Renk paleti belirlendi
 - Deniz was here
 - Muhammed sayfası eklendi
+- deniz was here
 
 ## Test
 Madde ekliyorum- Yağmur cengiz
@@ -17,6 +18,7 @@ Madde ekliyorum- Yağmur cengiz
 - Test verisi hazırlandı
 - deniz was here
 - Test mesajı, muhery
+- deniz was here
 
 ## Toplantı notları
 
