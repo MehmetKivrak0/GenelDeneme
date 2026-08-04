@@ -6,7 +6,7 @@ değiştirip bilerek çakışma çıkaracaksın. Diğer satırlara dokunma.
 ## Sprint bilgisi
 
 - Sprint adı: Staj Sprint 1
-- Sprint sorumlusu: Hazar Ekin Ucan
+- Sprint sorumlusu: Hazar Ekin Ucan,Mehmet Kıvrak
 - Sprint bitiş tarihi: 15.08.2026
 
 ## Takım üyeleri
@@ -16,7 +16,6 @@ değiştirip bilerek çakışma çıkaracaksın. Diğer satırlara dokunma.
 - Üye 3
 
 ## Notlar
-
 Çakışmayı çözüp merge ettikten sonra bu dosya main'e girecek. Bir sonraki kişi alıştırmayı
 yaparken satırı tekrar `BELIRLENECEK` yapmasına gerek yok, kendi branch'inde ne yazıyorsa
 onu değiştirmesi yeterli. Çakışma yine çıkar.
