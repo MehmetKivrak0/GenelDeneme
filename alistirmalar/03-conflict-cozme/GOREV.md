@@ -92,7 +92,7 @@ Dosyada şöyle bir şey duruyor olacak:
 - Sprint sorumlusu: Mehmet Kıvrak
 >>>>>>> alistirma-03/ad-soyad-b
 ```
-
+ 
 Okuma şekli:
 
 - `<<<<<<< HEAD` ile `=======` arası: **şu an bulunduğun branch'teki** hali
