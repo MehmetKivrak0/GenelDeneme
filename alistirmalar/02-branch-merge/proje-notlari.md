@@ -5,8 +5,8 @@ gibi kendi maddeni ekle. Başlıkları ve mevcut satırları değiştirme, sadec
 altına yeni satır ekle.
 
 ## Arayüz
-# Mehmet Kıvrak.
- -Web sitesi kısmında yenilikler yapılacak
+# Mehmet Kivrak.
+ -Web sitesi kisminda yenilikler yapilacak
 - Giriş ekranı taslağı hazırlandı
 - Renk paleti belirlendi
 
