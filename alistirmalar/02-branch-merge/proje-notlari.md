@@ -12,6 +12,9 @@ altına yeni satır ekle.
 - Giriş ekranı taslağı hazırlandı
 - Renk paleti belirlendi
 - Deniz was here
+- Muhammed sayfası eklendi
+- Cengizhan ve XRLab
+
 - Muhammed sayfası eklendi 
 - şeyma madde eklendi
 
