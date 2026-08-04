@@ -28,6 +28,7 @@ Madde ekliyorum- Yağmur cengiz
 
 
 - Sami Eren
+- Ezgi Bacak
 
 ## Toplantı notları
 
