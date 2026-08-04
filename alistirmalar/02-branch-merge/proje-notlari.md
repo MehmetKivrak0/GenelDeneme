@@ -1,10 +1,11 @@
-﻿# Proje Notları
+# Proje Notları
 
 Bu dosya 02. alıştırma için duruyor. Aşağıdaki başlıkların altına, görevde anlatıldığı
 gibi kendi maddeni ekle. Başlıkları ve mevcut satırları değiştirme, sadece listenin
 altına yeni satır ekle.
 
 ## Arayüz
+# Zeynep divoğlu
 
 # Mehmet Kivrak.
  -Web sitesi kisminda yenilikler yapilacak
@@ -12,11 +13,17 @@ altına yeni satır ekle.
 - Giriş ekranı taslağı hazırlandı
 - Renk paleti belirlendi
 - Deniz was here
+- Muhammed sayfası eklendi
+- Madde ekledim.-Nisa
+
+- Cengizhan ve XRLab
+
 - Muhammed sayfası eklendi 
 - şeyma madde eklendi
-
 - Sami Eren
 - Ezgi Bacak
+
+- Hazar Ekin Ucan kullanici profil ekrani arayuzu gelistirilecek
 
 ## Test
 Madde ekliyorum- Yağmur cengiz
@@ -24,12 +31,12 @@ Madde ekliyorum- Yağmur cengiz
 - Test verisi hazırlandı
 - deniz was here
 - Test mesajı, muhery
+- Test mesajı ekledim-Nisa
 - şeyma test
-
-
-
 - Sami Eren
 - Ezgi Bacak
+
+- Hazar Ekin Ucan kullanici profil ekrani icin test senaryosu yazilacak
 
 ## Toplantı notları
 

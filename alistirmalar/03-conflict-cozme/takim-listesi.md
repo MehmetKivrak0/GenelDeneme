@@ -8,6 +8,7 @@ değiştirip bilerek çakışma çıkaracaksın. Diğer satırlara dokunma.
 - Sprint adı: Staj Sprint 1
 - Sprint sorumlusu: ezgi
 
+- Sprint sorumlusu: Ekrem Efe Arkun
 - Sprint bitiş tarihi: 15.08.2026
 
 ## Takım üyeleri
