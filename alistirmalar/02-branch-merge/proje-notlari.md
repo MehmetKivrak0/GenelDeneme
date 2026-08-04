@@ -13,6 +13,7 @@ altına yeni satır ekle.
 
 - Giriş ekranı için ilk test senaryosu yazıldı
 - Test verisi hazırlandı
+- Test mesajı, muhery
 
 ## Toplantı notları
 
