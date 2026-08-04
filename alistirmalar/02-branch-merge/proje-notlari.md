@@ -19,7 +19,7 @@ altına yeni satır ekle.
 
 - Muhammed sayfası eklendi 
 - şeyma madde eklendi
-
+- Ekrem Efe Arkun: Dashboard taslağı eklendi.
 - Sami Eren
 - Ezgi Bacak
 
@@ -31,7 +31,7 @@ Madde ekliyorum- Yağmur cengiz
 - Test mesajı, muhery
 - Test mesajı ekledim-Nisa
 - şeyma test
-
+- Ekrem Efe Arkun: Dashboard testi eklendi.
 
 
 - Sami Eren
