@@ -11,12 +11,19 @@ Madde ekliyorum-Yağmur Cengiz
 - Deniz was here
 - Muhammed sayfası eklendi
 
+
+- Sami Eren
+
 ## Test
 Madde ekliyorum- Yağmur cengiz
 - Giriş ekranı için ilk test senaryosu yazıldı
 - Test verisi hazırlandı
 - deniz was here
 - Test mesajı, muhery
+
+
+
+- Sami Eren
 
 ## Toplantı notları
 
