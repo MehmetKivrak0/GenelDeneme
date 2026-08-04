@@ -12,6 +12,9 @@ altına yeni satır ekle.
 - Giriş ekranı taslağı hazırlandı
 - Renk paleti belirlendi
 - Deniz was here
+- Muhammed sayfası eklendi
+- Cengizhan ve XRLab
+
 - Muhammed sayfası eklendi 
 - şeyma madde eklendi
 - Ekrem Efe Arkun: Dashboard taslağı eklendi.
@@ -25,7 +28,7 @@ Madde ekliyorum- Yağmur cengiz
 - deniz was here
 - Test mesajı, muhery
 - şeyma test
-
+- Ekrem Efe Arkun: Dashboard testi eklendi.
 
 
 - Sami Eren
