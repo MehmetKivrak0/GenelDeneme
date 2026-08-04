@@ -8,6 +8,7 @@ altına yeni satır ekle.
 
 - Giriş ekranı taslağı hazırlandı
 - Renk paleti belirlendi
+- Muhammed sayfası eklendi
 
 ## Test
 
