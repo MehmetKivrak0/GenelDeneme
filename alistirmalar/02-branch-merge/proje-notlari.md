@@ -1,4 +1,4 @@
-﻿# Proje Notları
+# Proje Notları
 
 Bu dosya 02. alıştırma için duruyor. Aşağıdaki başlıkların altına, görevde anlatıldığı
 gibi kendi maddeni ekle. Başlıkları ve mevcut satırları değiştirme, sadece listenin
@@ -22,6 +22,8 @@ altına yeni satır ekle.
 - Sami Eren
 - Ezgi Bacak
 
+- Hazar Ekin Ucan kullanici profil ekrani arayuzu gelistirilecek
+
 ## Test
 Madde ekliyorum- Yağmur cengiz
 - Giriş ekranı için ilk test senaryosu yazıldı
@@ -32,6 +34,8 @@ Madde ekliyorum- Yağmur cengiz
 - şeyma test
 - Sami Eren
 - Ezgi Bacak
+
+- Hazar Ekin Ucan kullanici profil ekrani icin test senaryosu yazilacak
 
 ## Toplantı notları
 
