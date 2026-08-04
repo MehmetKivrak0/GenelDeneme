@@ -1,4 +1,4 @@
-# Proje Notları
+﻿# Proje Notları
 
 Bu dosya 02. alıştırma için duruyor. Aşağıdaki başlıkların altına, görevde anlatıldığı
 gibi kendi maddeni ekle. Başlıkları ve mevcut satırları değiştirme, sadece listenin
@@ -16,6 +16,7 @@ altına yeni satır ekle.
 
 
 - Sami Eren
+- Ezgi Bacak
 
 ## Test
 Madde ekliyorum- Yağmur cengiz
@@ -32,3 +33,4 @@ Madde ekliyorum- Yağmur cengiz
 
 Bu başlığın altına dokunma. Burası bilerek boş bırakıldı, merge sonrası dosyanın geri
 kalanının değişmediğini görmek için işine yarayacak.
+
