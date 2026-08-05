@@ -22,6 +22,7 @@ altına yeni satır ekle.
 - şeyma madde eklendi
 - Sami Eren
 - Ezgi Bacak
+- Buse Cici
 
 - Hazar Ekin Ucan kullanici profil ekrani arayuzu gelistirilecek
 
